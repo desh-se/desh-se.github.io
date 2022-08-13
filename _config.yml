@@ -24,7 +24,7 @@ email: anders@desh.se
 description: >- # this means to ignore newlines until "baseurl:"
   I'm a dad, co-founder of Halon MTA and railway enthusiast
   who loves cycling and fitness technology.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://desh.se" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: desh___
 github_username:  desh-se
