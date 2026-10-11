@@ -8,11 +8,12 @@ permalink: /about/
 
 I'm a Swede born in 1985 who has always loved trains and railways, and developed an interest in cycling and fitness technology in recent years.
 
-## Work
-I co-founded [Halon](https://halon.io) Security AB around 2006 together with my childhood friend Erik and two brothers named Peter and Jonas.
+# Work
+I co-founded [Halon](https://halon.io) around 2006 together with my childhood friend Erik and two brothers named Peter and Jonas. Our software now powers some of the largest email systems in the world.
 
-## Master's thesis
-# Accurate delay measurements and quality assurance in IP networks
+# Master's thesis
+**Accurate delay measurements and quality assurance in IP networks**
+
 I studied electical engineering at [Chalmers](https://www.chalmers.se/) University of Technology from 2005.
 I did my master's thesis together with [Lukas Garberg](https://se.linkedin.com/in/lukas-garberg-b37a943) for [Tele2](http://www.tele2.se/) in 2011. 
 
